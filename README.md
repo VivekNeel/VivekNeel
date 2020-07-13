@@ -1,4 +1,4 @@
-![A cover image that says "Hi I'm VivekNeel" in the center](icons/hey.png)
+![A cover image that says "Hi I'm VivekNeel" in the center](https://github.com/VivekNeel/VivekNeel/blob/master/icons/hey.png)
 
 ## VivekNeel (he/him)
 
