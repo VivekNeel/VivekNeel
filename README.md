@@ -6,4 +6,4 @@ I love javascript. I mostly work on react/react-native applications. Frontend le
 
 ### Let's get connected :
 
-<a href="https://twitter.com/VivekNeel">Twitter</a> <a href="https://www.linkedin.com/in/vivek-neel-65585b103/">Linkedln</a>
+<a href="https://twitter.com/vivekneel55">Twitter</a> <a href="https://www.linkedin.com/in/vivek-neel-65585b103/">Linkedln</a>
