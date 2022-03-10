@@ -6,7 +6,11 @@ I love javascript. I mostly work on react/react-native applications. Frontend le
 
 ## My stats 
 
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekNeel&count_private=true)](https://github.com/VivekNeel/github-readme-stats)
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekNeel&count_private=true&show_icons=true)](https://github.com/VivekNeel/github-readme-stats)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNeel&count_private=true&show_icons=true&hide=java)](https://github.com/VivekNeel/github-readme-stats)
 
 ### Let's get connected :
 
