@@ -6,7 +6,7 @@ I love javascript. I mostly work on react/react-native applications. Frontend le
 
 ## My stats 
 
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekNeel)](https://github.com/VivekNeel/github-readme-stats)
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekNeel&count_private=true)](https://github.com/VivekNeel/github-readme-stats)
 
 ### Let's get connected :
 
