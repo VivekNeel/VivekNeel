@@ -4,6 +4,10 @@
 
 I love javascript. I mostly work on react/react-native applications. Frontend lead @<a href="https://memorangapp.com/">Memorang</a>
 
+## My stats 
+
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekNeel)](https://github.com/VivekNeel/github-readme-stats)
+
 ### Let's get connected :
 
 <a href="https://twitter.com/vivekneel55">Twitter</a> <a href="https://www.linkedin.com/in/vivek-neel-65585b103/">Linkedln</a>
